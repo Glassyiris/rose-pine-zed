@@ -79,7 +79,7 @@
                 "error.background": "$highlightLow",
                 "error.border": "$love",
                 "info": "$pine",
-                "scrollbar.thumb.background": "$muted99",
+                "scrollbar.thumb.background": "$muted66",
                 "scrollbar.thumb.hover_background": "$muted",
                 "scrollbar.thumb.border": "#00000000",
                 "scrollbar.track.background": "#00000000",

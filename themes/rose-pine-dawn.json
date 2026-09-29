@@ -79,7 +79,7 @@
         "error.background": "#f4ede8",
         "error.border": "#b4637a",
         "info": "#286983",
-        "scrollbar.thumb.background": "#9893a599",
+        "scrollbar.thumb.background": "#9893a566",
         "scrollbar.thumb.hover_background": "#9893a5",
         "scrollbar.thumb.border": "#00000000",
         "scrollbar.track.background": "#00000000",
